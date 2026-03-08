@@ -1,2 +1,4 @@
-.pio
 pcb/egb220_turret_pcb-backups/
+code/.cache
+code/.pio
+code/compile_commands.json
